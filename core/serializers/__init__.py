@@ -1,3 +1,4 @@
 from .user import UserSerializer
 from .acessorios import AcessorioSerializer
-from .cor import CorSerializer
+from .cores import CorSerializer
+from .modelos import ModeloSerializer
